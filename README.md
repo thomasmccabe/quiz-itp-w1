@@ -80,8 +80,8 @@ Example:
 income = 30000  # $30,000 is less than $50,000
 calculate_tax(income)  # $30,000 * 0.15  = 4500 = $4,500
 
-income = 80000  # $80,000 is more than $75,000 but less than $80,000
-calculate_tax(income)  # $80,000 * 0.25 = 20000 = $20,000
+income = 80000  # $80,000 is more than $75,000 but less than $100,000
+calculate_tax(income)  # $80,000 * 0.30 = 24000 = $24,000
 
 income = 210000  # $210,000 is more than $100,000
 calculate_tax(income)  # $210,000 * 0.35 = 73500 = $73,500
