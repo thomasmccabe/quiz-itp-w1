@@ -36,6 +36,8 @@ d) False
 e) "hello world"
 ```
 
+**IMPORTANT**: Return the actual value as shown in the options. **DO NOT surround it with quotes**. Example, if you think that `[]` is the correct answer, you should put `return []`, if you think `True` is the correct answer, you should put `return True`, or `return 1`, etc. Again, **DON'T use quotes**, except if you choose the last option: `return "hello world"`.
+
 #### Question 3
 
 Write a function `remove_Es` that receives a string and removes all the characters `'e'` or `'E'`. Example:
