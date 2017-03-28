@@ -12,5 +12,5 @@ def question_1():
     c) String
     d) Collection
     """
-    # Return the correct value.
-    pass
+    return "Boolean"
+    
