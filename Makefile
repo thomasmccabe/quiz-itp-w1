@@ -5,4 +5,4 @@ END=" \#\#\# \033[0m\n"
 
 test:
 	@echo $(TAG)Running tests$(END)
-	PYTHONPATH=. py.test tests.py
+	py.test quiz-questions/*.py --tb=no -v
