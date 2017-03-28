@@ -14,6 +14,6 @@ def question_2():
     c) True
     d) False
     e) "hello world"
-    """
-    # Return the correct value.
-    pass
+
+    Return True
+    
